@@ -12,7 +12,7 @@ newNode->data = value;
 newNode->next = NULL;
 return newNode;
 }
-// Function to display the linked list
+// Function to display the linked list 
 void displayList(struct Node* head) {
 struct Node* current = head;
 while (current != NULL) {
