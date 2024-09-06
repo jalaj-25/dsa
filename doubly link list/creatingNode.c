@@ -10,4 +10,4 @@ struct Node* createNode(int data) {
     newNode->next = NULL;
     newNode->prev = NULL;
     return newNode;
-}
+} 
