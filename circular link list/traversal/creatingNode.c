@@ -12,4 +12,4 @@ struct Node* createNode(int data) {
     newNode->data = data;
     newNode->next = NULL;
     return newNode;
-}
+} 
